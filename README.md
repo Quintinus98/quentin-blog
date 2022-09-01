@@ -8,12 +8,13 @@ Install the dependencies using
 npm install
 ```
 
-### Start a Json Server
-npx json-server --watch data/db.json --port 8000
-
-Start Quentin Blog using:
+### Start Quentin Blog using:
 ```sh
 npm run start
 ```
+
+### Start a Json Server
+npx json-server --watch data/db.json --port 8000
+
 
 Enjoy the app.
