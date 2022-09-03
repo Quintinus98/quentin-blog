@@ -19,4 +19,4 @@ npx json-server --watch data/db.json --port 8000
 ```
 
 
-Enjoy the app.
+_Enjoy the app._
